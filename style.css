@@ -304,6 +304,13 @@ footer {
     margin-bottom:40px;
     cursor:copy;
 }
+@media screen {
+    #contact{
+        display: inline-block;
+        justify-content: center;
+    }
+}
+
 /* End  */
 
 /* Nav animation */
